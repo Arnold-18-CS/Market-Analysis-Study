@@ -1,11 +1,11 @@
-# Market Analysis Study with Python mMachine Learning
+# Market Analysis Study with Python Machine Learning
 
 ## Startup Instructions
 
 1. **Clone the repository**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Arnold-18-CS/Market-Analysis-Study.git
     ```
 
 2. **Change into the project directory**
