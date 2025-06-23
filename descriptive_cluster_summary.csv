@@ -1,0 +1,5 @@
+Cluster,Age_Group,Gender,Marital_Status,Highest_Education_Level,Occupation,Household_Size,Children_Under_18,Total_Household_Income,Income_Level,Able_To_Meet_Regular_Expenses,Earning_Difficulty,Borrowed_Money_For_Rising_Prices
+0,Millennials,Male,Married,University degree,Salaried employee,3 or 4 people,Yes,Between USD501 and USD900,Middle Income,Yes,Difficult,"Yes, had to borrow a few times"
+1,Millennials,Female,Married,Diploma,Salaried employee,3 or 4 people,Yes,Under USD500,Low Income,Maybe,Difficult,"Yes, had to borrow a few times"
+2,Millennials,Male,Married,Vocational training,Salaried employee,Up to 2 people,No,Under USD500,Middle Income,Maybe,Difficult,"Yes, had to borrow a few times"
+3,Gen Z,Female,Single,Diploma,Unemployed,Up to 2 people,No,Under USD500,Low Income,Maybe,Difficult,"Yes, had to borrow a few times"
